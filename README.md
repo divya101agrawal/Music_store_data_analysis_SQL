@@ -1,1 +1,1 @@
-# Music_store_data_analysis_SQL
+This data is taken from Kaggle and further processed in PostgreSQL using Aggregation, join and window functions
